@@ -1,11 +1,11 @@
 ![Alt-image](https://smb-it.ru/images/notes/jkh-soft.jpg)
 # **Valentina Vasileva**
-***
 
-**Contact info: **
+
+**Contact info:**
 + Email: 62253759v@gmail.com
 + Discord: Val (@valentina74)
-+ [LinkedIn]("linkedin.com/in/valentina-vasileva-110441131")
++ [LinkedIn](https://www.linkedin.com/in/valentina-vasileva-110441131?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;Fbsc9RH5QA+yCzc7z1copA==)
 
 **About myself:**
 + Constantly focused on resolving issues and always looking for ways to improve and evolve processes;
@@ -18,11 +18,14 @@
 + Git, GitHub basics
 
 **Code example:**
-`console.log(70 * (3 + 4) / (8 + 2));`
+
+```console.log(70 * (3 + 4) / (8 + 2));```
+
+
 
 **Education:**
-St. Petersburg State University, St. Petersburg, Russia. Master’s Degree. Applied Mathematics.
-Academic Gymnasium at Saint-Petersburg University. Mathematics.
++ St. Petersburg State University, St. Petersburg, Russia. Master’s Degree. Applied Mathematics.
++ Academic Gymnasium at Saint-Petersburg University. Mathematics.
 
 **Courses:**
 + RS School Course "JavaScript/Front-end. Stage 0" (in progress)
