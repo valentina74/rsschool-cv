@@ -1,5 +1,6 @@
 ![Alt-image](https://smb-it.ru/images/notes/jkh-soft.jpg)
 # **Valentina Vasileva**
+![Alt-avatar](https://pbs.twimg.com/media/EgsEDemWkAItEmq.png)
 
 
 **Contact info:**
