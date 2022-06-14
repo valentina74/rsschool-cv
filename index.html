@@ -7,14 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
 </head>
-<div class="header">
-  <img alt="avatar" src="https://pbs.twimg.com/media/EgsEDemWkAItEmq.png">
+<body class="body">
+<header class="header">
+  <img class="avatar" alt="avatar2" src="1488581.png">
 
   <h1>Valentina Vasileva</h1>
-  <header>Junior Front-end Developer</header>
-</div> 
+  <h3>Junior Front-end Developer</h3>
+</header> 
 
-<div class="main">
+<main class="main">
 <h2>Contact info:</h2>
 <ul> 
   <li>Email: 62253759v@gmail.com</li>
@@ -39,7 +40,25 @@
 
 <h2>Code example:</h2>
 
-<code class="myCode">console.log(70 * (3 + 4) / (8 + 2));</code>
+<div class="myCode"><code>
+  function isIsogram(str){ <br>
+    <p class="p1">str = str.toLowerCase(); <br>
+    console.log(str); <br>
+    len = str.length; <br>
+    for (i = 0; i < (len - 1); i++) { <br>
+      <p class="p2">if (str.indexOf(str[i], i+1) != -1) { <br>
+        return false; <br>
+        break; <br>
+        } <br>
+      } <br></p>
+    return true; <br></p>
+  }</code></div>
+
+<h2>Projects:</h2>
+<ul>
+<li><a href="https://rolling-scopes-school.github.io/valentina74-JSFELT/webdev/" alt="WebDev Project"> Project1: WebDev</a></li>
+<li><a href="https://rolling-scopes-school.github.io/valentina74-JSFELT/theyalow/" alt="Theyalow Project"> Project2: Theyalow</a></li>
+</ul>
 
 <h2>Work expirience:</h2>
 <ul>
@@ -65,13 +84,16 @@
   <li>Deutsch - B2</li>
   <li>Lithuanian - A2</li>
 </ul>
-</div>
+</main>
 
-<div class="footer">
-  <a href="https://github.com/valentina74">GitHub valentina74</a>
-  2022
-  <img src="logo.png" alt="logo">
-  <a href="https://rs.school/js/">"JavaScript/Front-end"</a>
-</div>
+<footer class="footer">
+  <span><a href="https://github.com/valentina74">My GitHub</a></span>
+  <span>2022</span>
+  <!--   <span><img class="logo" src="https://rs.school/images/rs_school_js.svg" alt="logo">
+-->
+<span><a class="logo" href="https://rs.school/js/">
+  <img  class="logo" src="https://rs.school/images/rs_school_js.svg" alt="logo">
+</a></span>
+</footer>
 </body>
 </html>

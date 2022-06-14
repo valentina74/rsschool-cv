@@ -1,10 +1,17 @@
+
+.body {
+
+  width:80%;
+ margin: auto;
+
+}
 .header {
   display: block;
-    width: 95%;
+    width: 100%;
     height: auto;
     margin-left:auto;
     margin-right: auto;
-    background-color: #ffe4c4;
+    background-color: #a7f0e2;
     text-align: center;
   }
   
@@ -14,15 +21,44 @@
     margin-right: auto;
     width: 70%;
     height: 75%;
+    
   }
 
   .footer {
     display: block;
-    width: 95%;
+    width: 100%;
     margin-left:auto;
     margin-right: auto;
+    text-align: center;
+    background-color: #a7f0e2;
   }
 
   .myCode {
     background-color: #D5DBDB; 
+
+    margin-right: 60%;
   }
+
+  .p1 {
+    margin-left: 14px;  
+  }
+
+  .p2 {
+    margin-left: 24px;
+  }
+
+  .avatar {
+    width: 10%;
+  }
+
+  .logo {
+    width: 5%;
+   /* background-image: src="https://rs.school/images/rs_school_js.svg";
+ */ }
+
+  span {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+
