@@ -34,9 +34,10 @@
   }
 
   .myCode {
-    background-color: #D5DBDB; 
+   /* background-color: #D5DBDB; */
 
-    margin-right: 60%;
+   /* margin-right: 60%; */
+   margin-left: 3%;
   }
 
   .p1 {
